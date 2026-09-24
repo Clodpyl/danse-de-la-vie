@@ -1,6 +1,6 @@
 ---
 title: "Activités"
-order: 3
+order: 4
 in_menu: true
 ---
 ## Nos activités

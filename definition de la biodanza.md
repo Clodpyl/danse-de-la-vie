@@ -1,6 +1,6 @@
 ---
 title: "Définition de la Biodanza"
-order: 6
+order: 2
 in_menu: true
 ---
 La Biodanza est une pratique de la danse  

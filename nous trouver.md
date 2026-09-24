@@ -1,6 +1,6 @@
 ---
 title: "Nous trouver"
-order: 4
+order: 5
 in_menu: true
 ---
 13, rue Saint-Jacques, Sigolsheim, 68240 KAYSERSBERG-VIGNOBLE
