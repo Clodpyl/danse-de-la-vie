@@ -11,3 +11,5 @@ face à l'escalier principal.
 C'est bien simple, après avoir franchi la porte d'entrée du batiment, c'est tout droit !
 
 Vous y voilà ! 
+
+<iframe style="width: 100%; height: 300px; border: 0;" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/fr/map/biodanza-a-sigolsheim_1463671?scaleControl=false&miniMapControl=true&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true&measureControl=null&printControl=null#16/48.134583/7.298248"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/biodanza-a-sigolsheim_1463671?scaleControl=false&miniMapControl=true&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true&measureControl=null&printControl=null#16/48.134583/7.298248">Voir en plein écran</a></p> 
