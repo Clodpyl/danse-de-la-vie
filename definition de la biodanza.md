@@ -5,9 +5,9 @@ in_menu: true
 ---
 La Biodanza est une pratique de la danse  
 qui sort des schémas habituels. Elle va  
-puiser sa source   au coeur du ressenti. Et, 
+puiser sa source   au coeur du ressenti. 
  
-dès l'instant où notre présence à l'ici est sincère,  
+Dès l'instant où notre présence à l'ici est sincère,  
 détaché du moindre résultat à satisfaire,  
 s'ouvre alors progressivement en soi,  
 cet espace où votre esprit, votre coeur et votre corps s'unissent.  
@@ -15,7 +15,7 @@ Ces mouvements dansés, nés du
 fruit de notre alignement  
 nous émerveillent, nous régénèrent et nous ressourcent.  
  
-La pratique régulière de la Biodanza représente bien plus d'un bénéfice.
+La pratique régulière de la Biodanza représente bien des bénéfices.
 * Génératrice de joie
 * Elle favorise les liens amicaux 
 * Restaure la confiance en soi 
