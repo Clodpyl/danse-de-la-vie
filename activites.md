@@ -3,15 +3,14 @@ title: "Activités"
 order: 3
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
-
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+#### Reprise Biodanza 2026/27
+___
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+
+* Début des cours le **6 octobre**
+* Maintient des cours pendant les **Vacances de la Toussaint**
+* Séance spéciale le 15/12
+* Trèves de Noël à partir du 21/12  
+Reprise le 05/01/27 
