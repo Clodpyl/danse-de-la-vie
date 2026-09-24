@@ -5,6 +5,9 @@ in_menu: true
 ---
 13, rue Saint-Jacques, Sigolsheim, 68240 KAYSERSBERG-VIGNOBLE
 
-Depuis le parvis de l'ancienne Mairie de Sigolsheim, s'ouvre l'Espace Pluriel. La salle Adrien ZELLER où nous dansons se trouve au premier étage, face à l'escalier principal.
+Depuis le parvis de l'ancienne Mairie de Sigolsheim,  s'ouvre l'Espace Pluriel.  
+La salle Adrien ZELLER où nous dansons se trouve au premier étage,  
+face à l'escalier principal.  
+C'est bien simple, après avoir franchi la porte d'entrée du batiment, c'est tout droit !
 
 Vous y voilà ! 
