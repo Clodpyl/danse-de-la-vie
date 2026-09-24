@@ -1,8 +1,11 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 1
+in_menu: true
 ---
+# BioSigo
 
-# L'Échappée Belle
+Ce site a pour objet de promouvoir la **Biodanza** et ses **valeurs de consentement et de respect de la vie sous toutes ses formes**. 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+
+![Guirlande de lucioles]({% link images/IMG_0011.JPG %}) 
