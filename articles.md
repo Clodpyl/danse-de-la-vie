@@ -24,4 +24,7 @@ blog_index: true
 ### Site amies
 ____
 Voir aussi 
- [En savoir plus avec Hélène Jeanne Lévy Benseft]https://youtu.be/Vw9WXSrLCQA?si=SVhEebceRoTPpYWb 
+ [En savoir plus avec Hélène Jeanne Lévy Benseft]https://youtu.be/Vw9WXSrLCQA?si=SVhEebceRoTPpYWb.
+
+
+Apprenez Markdown avec [le Guide Markdown](https://flus.fr/markdown). 
