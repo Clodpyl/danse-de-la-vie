@@ -27,4 +27,6 @@ Voir aussi
  [En savoir plus avec Hélène Jeanne Lévy Benseft]https://youtu.be/Vw9WXSrLCQA?si=SVhEebceRoTPpYWb.
 
 
-Apprenez Markdown avec [le Guide Markdown](https://flus.fr/markdown). 
+Apprenez Markdown avec [le Guide Markdown](https://flus.fr/markdown).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TGcUQXLw43M?si=3zbmzodDBZgG96RD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
